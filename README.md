@@ -43,19 +43,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=somesh-waghade&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=somesh-waghade&theme=onedark"/>
-</p>
 
 ---
 
